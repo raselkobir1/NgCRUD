@@ -1,0 +1,268 @@
+------------API integration---------------------------
+1.webApiConfig.cs:
+	using System.Net.Http.Headers;
+	config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("text/html"));     // force fully json return
+
+2.package manager console:
+	Install-Package Microsoft.AspNet.WebApi.Cors
+	-->allow other http request.
+
+3.webApiConfig.cs:
+	using System.Web.Http.Cors;
+	-->http request allow comming for any domain.
+	config.EnableCors(new EnableCorsAttribute("*", "*", "*"));
+	-->for specif domain:(only google)
+	config.EnableCors(new EnableCorsAttribute("http://google.com", "*", "*"));
+4.Add class based on the data base
+
+public class Employee
+{
+public int DepartmentId {get; set;}
+public int DepartmentName {get; set;}
+}
+public class Employee
+{
+ public int EmployeeId {get; set;}
+ public int EmployeeName {get; set;}
+ public int Department {get; set;}
+ public int DateOfJoining {get; set;}
+ public int PhotoFileName {get; set;}
+}
+
+------------ng Project----------
+1.create new project 
+-->ng new angular11
+--------------------------------------------------
+>>>AppComponent is root component.
+	we can add any child component under this component.
+	all component create under app folder.
+	appComponent.ts->which contain all functionality which
+	written typescript and java script.
+>>>EventEmmiter help us call the parent function from child.
+	it use when we send data from child to Parent 
+-->ngOnInit() is first method execute when the component is go
+-->Subscribe()  this method make sure wait the response from api call
+-->then only assign the value DepartmentList[] variable this is assynchronus operation
+----------------
+2.genarate component:
+-->ng generate component department
+-->ng generate component department/show-dep
+-->ng generate component department/add-edit-dep
+-->ng generate component employee
+-->ng generate component employee/show-emp
+-->ng generate component employee/add-edit-emp
+2.genarate service:
+-->ng generate service shared
+-->register service to app.module.ts
+  import {SharedService} from './shared.service'
+  providers: [SharedService],
+-->register others module under app.module.ts
+3.Add service method
+-->import { HttpClient } from '@angular/common/http';
+-->import { Observable } from 'rxjs';
+export class SharedService {
+  readonly ApIUrl ="http://localhost:56259/api";
+  readonly PhotoUrl ="http://localhost:56259/Photos";
+----------------------------------------------------------------------
+4.app.module.ts
+-->import {SharedService} from './shared.service'
+-->import {HttpClientModule} from '@angular/common/http'
+-->import {FormsModule,ReactiveFormsModule} from '@angular/forms'
+
+ imports: [
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
+  ],
+
+  constructor(private http:HttpClient) { }
+ //----------------------Department CRUD------------------
+ getDeptList():Observable<any[]>{
+  return this.http.get<any>(this.ApIUrl+'/Department');
+}
+addDepartment(val:any){
+  return this.http.post(this.ApIUrl+'/Department',val); 
+}
+UpdateDepartment(val:any){
+  return this.http.put(this.ApIUrl+'/Department',val); 
+}
+deleteDepartment(val:any){
+  return this.http.delete(this.ApIUrl+'/Department',val); 
+}
+//----------------------Employee CRUD------------------
+getEmpList():Observable<any[]>{
+  return this.http.get<any>(this.ApIUrl+'/Employee');
+}
+addEmployee(val:any){
+  return this.http.post(this.ApIUrl+'/Employee',val); 
+}
+UpdateEmployee(val:any){
+  return this.http.put(this.ApIUrl+'/Employee',val); 
+}
+deleteEmployee(val:any){
+  return this.http.delete(this.ApIUrl+'/Employee',val); 
+}
+  //----------------------Upload photos------------------
+uploadPhoto(val:any){
+  return this.http.post(this.ApIUrl+'/Employee/SaveFile',val);
+}
+  //----------------------Get all Department Names------------------
+getAllDepartmentLists():Observable<any[]>{
+  return this.http.get<any[]>(this.ApIUrl+'/Department/GetAllDepartmentNames')
+}
+------------------------------------------------------------------
+5.Add routing:app-routing.module.ts
+-->import { EmployeeComponent } from './employee/employee.component';
+-->import{DepartmentComponent} from './department/department.component';
+
+const routes: Routes = [
+  {path:'employee',component:EmployeeComponent},
+  {path:'department',component:DepartmentComponent}
+];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+-----------------------------------------------------------------
+6.Add bootStrupt on: Index.html 
+   -->add css heder section and js cdn on before end of the body.
+-----------------------------------------------------------------
+7.Add navegation menu: app.component.ts
+<div class="container">
+<h3 class="d-flex justify-content-center">angular 11, web API sql server app demo</h3>
+<h3 class="d-flex justify-content-center">Employee Management portal</h3>
+
+<nav class="navbar navbar-expand-sm bg-light navbar-dark">
+    <li class="nav-item">
+        <button routerLink="department" class="m-1 btn btn-light btn-outline-primary">Departments</button>
+    </li>
+    <li class="nav-item">
+        <button routerLink="employee" class="m-1 btn btn-light btn-outline-primary">Employees</button>
+    </li>
+</nav>
+
+
+<router-outlet></router-outlet>
+</div>
+----------------------------------------------------------------------
+8.Show: Show-department Inside the department:
+-----------------------------------------------------
+export class ShowDepComponent implements OnInit {
+
+  constructor(private service:SharedService) { }
+  //get data from shared-service and fill the array.
+  DepartmentList:any=[];
+
+  ngOnInit(): void {
+    this.refreshDepList();
+  }
+  refreshDepList(){
+    this.service.getDeptList().subscribe(data =>{
+      this.DepartmentList = data;
+    })
+  }
+
+-->ngOnInit() is first method execute when the component is go
+-->Subscribe()  this method make sure wait the response from api call
+-->then only assign the value DepartmentList[] variable this is assynchronus operation
+9. copy selector from show-depatment.component.ts (child comp) to past department.component.html (parent comp html page)
+---------------------------------------------------------------------
+10. add BootStrupt table for Get department List: show-dep.component.html (child page)
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>DepartmentId</th>
+            <th>Department Name</th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of DepartmentList">
+            <td>{{dataItem.DepartmentId}}</td>
+            <td>{{dataItem.DepartmentName}}</td>
+            <td>
+                <button type="button" class="btn btn-light mr-1">Edit</button>
+                <button type="button" class="btn btn-light mr-1">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+-----------------------------------------------
+soln: https://www.techiediaries.com/fix-cors-with-angular-cli-proxy-configuration/
+11.Cors problem: add visual stdio package manager console:
+Install-Package Microsoft.AspNet.WebApi.Cors
+12.add code visual stdio project: webApiConfig: under Register()
+  config.EnableCors(new EnableCorsAttribute("http://localhost:4200", "*", "*"));
+13. two port are same->vs code and visual stdio code
+example:
+vscode: http://localhost:4200/department
+and visual stdio config are same: config.EnableCors(new EnableCorsAttribute("http://localhost:4200", "*", "*"));
+
+
+
+
+
+
+
+
+--------------DataBase----------------------
+USE [EmployeedB]
+GO
+
+CREATE TABLE [dbo].[Department](
+	[DepartmentId] [int] IDENTITY(1,1) NOT NULL,
+	[DepartmentName] [varchar](500) NULL
+) ON [PRIMARY]
+GO
+
+INSERT INTO Department (DepartmentName) VALUES('Markting');
+select * from department
+
+DELETE FROM Department WHERE DepartmentId=2
+UPDATE Department SET DepartmentName = 'RnD' WHERE DepartmentId = 1;
+------------------------------------------------
+CREATE TABLE [dbo].[Employee](
+	[EmployeeId] [int] IDENTITY(1,1) NOT NULL,
+	[EmployeeName] [varchar](200) NULL,
+	[Department] [varchar](20) NULL,
+	[DateOfJoining] [date] NULL,
+	[PhotoFileName] [varchar](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+SELECT EmployeeId,EmployeeName,Department,DateOfJoining,PhotoFileName from Employee
+INSERT INTO Employee (EmployeeName,Department,DateOfJoining,PhotoFileName)VALUES('Kamal','Food','10/05/2021','img.jpg') 
+
+UPDATE Employee SET EmployeeName = 'Mahbub',Department='Telecomminication',DateOfJoining='2021-10-08',PhotoFileName='mahbub.jbp' WHERE EmployeeId = 2;
+
+select * from Employee
+SELECT DepartmentName from Department
+
+----------=================================
+CREATE TABLE Users(
+Id INT PRIMARY KEY IDENTITY(1,1),
+UserId		NVARCHAR(30),
+Password    NVARCHAR(30)	 
+)
+
+GO
+INSERT INTO Users(UserId,Password) values('e@e.com','1234')
+INSERT INTO Users(UserId,Password) values('rasel@gmail.com','1234')
+GO
+SELECT UserId,Password FROM Users WHERE UserId ='e@e.com' and Password ='1234'
+---------------------------------------------------------------
+CREATE TABLE TaskList 
+(
+Id INT	PRIMARY KEY IDENTITY(1,1),
+TaskDate DATE ,
+TaskTime NVARCHAR(10),
+Task	 NVARCHAR(100)
+)
+GO
+INSERT INTO TaskList (TaskDate,TaskTime,Task) values('2-7-2021','10-12','Interview preparation') 
+INSERT INTO TaskList (TaskDate,TaskTime,Task) values('2-7-2021','12-02','Mid term exam preparation') 
+GO
+SELECT * FROM TaskList

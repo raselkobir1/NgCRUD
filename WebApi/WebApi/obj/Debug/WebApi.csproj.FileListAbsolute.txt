@@ -1,0 +1,257 @@
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\WebApi.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Rasel Kabir\source\repos\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\WebApi.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rasel Kabir\Desktop\Application\AngularPractice\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\WebApi.dll.config
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\WebApi.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\WebApi.pdb
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.exe
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.exe.config
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.rsp
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\csi.exe
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\csi.rsp
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.exe
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.exe.config
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.rsp
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Antlr3.Runtime.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Newtonsoft.Json.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Cors.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Helpers.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Mvc.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Optimization.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Razor.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\WebGrease.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Newtonsoft.Json.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Helpers.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Mvc.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Optimization.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.Razor.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.dll
+I:\Angular\Projects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.pdb
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\WebApi.dll.config
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\WebApi.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\WebApi.pdb
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.exe
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.exe.config
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\csc.rsp
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\csi.exe
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\csi.rsp
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.exe
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.exe.config
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\vbc.rsp
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Antlr3.Runtime.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Newtonsoft.Json.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Cors.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Helpers.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Mvc.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Optimization.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Razor.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\WebGrease.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Newtonsoft.Json.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Helpers.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Mvc.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Optimization.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.Razor.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.dll
+I:\Angular\CompleteProjects\AngularCRUD\WebApi\WebApi\obj\Debug\WebApi.pdb
